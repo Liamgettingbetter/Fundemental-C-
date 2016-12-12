@@ -12,3 +12,10 @@ char cfunc(int i) {
 		return 'z';
 	return 'c';
 }
+
+int main() {
+	cout << "type an integer :";
+	int val;
+	cin >> val;
+	cout << cfunc(val) << endl;
+}

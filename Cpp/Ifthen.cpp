@@ -9,9 +9,8 @@ int main() {
 	cin >> i;
 	if(i > 5)
 		cout << "It's greater than 5" << endl;
-	else 
-		if(i < 5)
-			cout << "It's less than 5" << endl;
+	else if(i < 5)
+		cout << "It's less than 5" << endl;
 	else 
 		cout << "It's equal to 5" << endl;
 

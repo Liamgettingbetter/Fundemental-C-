@@ -1,6 +1,7 @@
 //: C03: Bitwise.cpp
 // {L} printBinary
 // Demonstration of bit manipulation
+#include "printBinary.h"
 #include <iostream>
 using namespace std;
 

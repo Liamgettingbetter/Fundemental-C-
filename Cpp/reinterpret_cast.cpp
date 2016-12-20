@@ -14,7 +14,7 @@ void print(X* x) {
 int main() {
 	X x;
 	print(&x);
-	int *xp = reinterpret_cast<int*>(*x);
+	int *xp = reinterpret_cast<int*>(&x);
 	for(int *i = xp; i < xp + sz; i++)
 		*i = 0;
 	// Can't use xp as an X* at this point

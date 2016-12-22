@@ -18,3 +18,20 @@ void print(int a[], string name, int size) {
 		cout << name << "[" << i << "] = "
 			 << a[i] << endl;
 }
+
+int main() {
+	int a[5], b[5];
+	// Probably garbage values:
+	print(a, "a", 5);
+	print(b, "b", 5);
+	// Initialize the arrays:
+	func1(a, 5);
+	func1(b, 5);
+	print(a, "a", 5);
+	print(b, "b", 5);
+	// Notice the arrays are always modified
+	func2(a, 5);
+	func2(b, 5);
+	print(a, "a", 5);
+	print(b, "b", 5);
+}

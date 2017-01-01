@@ -5,7 +5,7 @@ using namespace std;
 // Debug flags aren't necessarily global : 
 bool debug = false;
 
-int main(int argc, char* argv[]) {
+int main(int argc, char *argv[]) {
 	for(int i = 0; i < argc; i++)
 		if(string(argv[i]) == "--debug = on")
 			debug = true;

@@ -3,8 +3,7 @@
 int i = 42; 
 
 int main() {
-	int i = 100;
-	int j = i;
-	std::cout << j << std::endl;
-	return 0;
+	int i, &ri = i;
+	i = 5; ri = 10;
+	std::cout << i << " " << ri << std::endl;
 }

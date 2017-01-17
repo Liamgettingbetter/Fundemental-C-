@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="chapter3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chapter3">
+				<Option output="/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/chapter3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 chapter3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chapter3/fast">
+				<Option output="/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/chapter3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 chapter3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/AllDefinitions.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/ArgsToInts.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/ArrayAddresses.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/ArrayArguments.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/ArrayIdentifier.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Arrays.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Asserts.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/AutoIncrement.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Basic.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Bitwise.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Boolean.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/CastFromVoidPointer.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/CatsInHats.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Charlist.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/CommaOperator.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/CommandLineArgs.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/DynamicDebugFlags.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Enum.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/FileStatic.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/FileStatic2.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/FloatingAsBinary.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Forward.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/FunctionCallCast.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/FunctionTable.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Global2.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Globe.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Guess.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Guess2.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/HelloWorld.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Ifthen.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Intvector.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Mathops.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Menu.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Menu2.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/OnTheFly.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/PassAddress.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/PassByValue.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/PassReference.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/PointerArithmetic.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/PointerIncrement.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/PointerIncrement2.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/PointerToFunction.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/PointersAndBrackets.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Return.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Rotation.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Scope.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/SelfReferential.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/SimpleStruct.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/SimpleStruct2.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/SimpleStruct3.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Specify.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Static.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Static_cast.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/StringizingExpression.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/StructArray.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Sum.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Union.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/VoidPointer.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/YourPets1.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/Yourpets2.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/a.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/b.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/const_cast.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/decrement.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/example.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/gotoKeyword.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/if.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/multiply.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/precision.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/printBinary.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/printBinary.h">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/print_range.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/read.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/read_unknown.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/reinterpret_cast.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/seperate.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/sizeof.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/sizeofOperator.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/sumhundred.cpp">
+			<Option target="chapter3"/>
+		</Unit>
+		<Unit filename="/Volumes/Archive/Github/Cpp/chapter3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

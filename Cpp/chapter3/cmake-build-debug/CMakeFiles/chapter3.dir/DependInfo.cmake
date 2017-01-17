@@ -1,0 +1,97 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/Volumes/Archive/Github/Cpp/chapter3/AllDefinitions.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/AllDefinitions.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/ArgsToInts.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/ArgsToInts.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/ArrayAddresses.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/ArrayAddresses.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/ArrayArguments.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/ArrayArguments.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/ArrayIdentifier.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/ArrayIdentifier.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Arrays.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Arrays.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Asserts.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Asserts.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/AutoIncrement.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/AutoIncrement.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Basic.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Basic.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Bitwise.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Bitwise.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Boolean.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Boolean.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/CastFromVoidPointer.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/CastFromVoidPointer.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/CatsInHats.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/CatsInHats.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Charlist.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Charlist.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/CommaOperator.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/CommaOperator.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/CommandLineArgs.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/CommandLineArgs.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/DynamicDebugFlags.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/DynamicDebugFlags.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Enum.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Enum.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/FileStatic.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/FileStatic.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/FileStatic2.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/FileStatic2.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/FloatingAsBinary.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/FloatingAsBinary.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Forward.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Forward.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/FunctionCallCast.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/FunctionCallCast.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/FunctionTable.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/FunctionTable.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Global2.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Global2.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Globe.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Globe.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Guess.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Guess.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Guess2.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Guess2.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/HelloWorld.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/HelloWorld.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Ifthen.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Ifthen.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Intvector.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Intvector.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Mathops.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Mathops.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Menu.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Menu.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Menu2.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Menu2.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/OnTheFly.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/OnTheFly.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/PassAddress.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/PassAddress.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/PassByValue.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/PassByValue.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/PassReference.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/PassReference.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/PointerArithmetic.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/PointerArithmetic.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/PointerIncrement.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/PointerIncrement.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/PointerIncrement2.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/PointerIncrement2.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/PointerToFunction.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/PointerToFunction.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/PointersAndBrackets.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/PointersAndBrackets.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Return.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Return.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Rotation.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Rotation.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Scope.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Scope.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/SelfReferential.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/SelfReferential.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/SimpleStruct.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/SimpleStruct.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/SimpleStruct2.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/SimpleStruct2.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/SimpleStruct3.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/SimpleStruct3.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Specify.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Specify.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Static.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Static.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Static_cast.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Static_cast.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/StringizingExpression.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/StringizingExpression.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/StructArray.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/StructArray.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Sum.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Sum.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Union.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Union.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/VoidPointer.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/VoidPointer.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/YourPets1.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/YourPets1.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/Yourpets2.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/Yourpets2.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/a.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/a.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/b.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/b.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/const_cast.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/const_cast.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/decrement.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/decrement.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/example.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/example.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/gotoKeyword.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/gotoKeyword.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/if.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/if.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/multiply.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/multiply.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/precision.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/precision.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/printBinary.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/printBinary.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/print_range.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/print_range.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/read.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/read.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/read_unknown.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/read_unknown.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/reinterpret_cast.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/reinterpret_cast.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/seperate.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/seperate.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/sizeof.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/sizeof.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/sizeofOperator.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/sizeofOperator.cpp.o"
+  "/Volumes/Archive/Github/Cpp/chapter3/sumhundred.cpp" "/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/sumhundred.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

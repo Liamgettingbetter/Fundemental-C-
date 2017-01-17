@@ -1,0 +1,3 @@
+/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Archive/Github/Cpp/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir
